@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">multiViewHolder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="timing">%s to %s</string>
+    <string name="closed">Closed</string>
+    <string name="open24">Open 24*7</string>
+</resources>
